@@ -3,7 +3,7 @@ This is a web app where you can enter any number of github usernames and see the
 
 To run this app on your local machine:
 
-1. git clone https://github.com/121371/GitHubCompareRepository.git
+1. git clone https://github.com/pathakshubham21/github-profile-compare
 2. cd GitHubCompareRepository
 3. npm install
 4. npm start
